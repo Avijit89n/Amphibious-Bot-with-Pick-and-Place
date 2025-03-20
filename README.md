@@ -5,8 +5,8 @@ This project is an **amphibious bot** equipped with a **pick-and-place mechanism
 
 ## 🔧 Hardware Components
 ### 🖥 Microcontrollers
-- **Arduino Uno** – Main motherboard for processing and control  
-- **Arduino Nano** – Handles NRF24L01 transmission and reception  
+- **Arduino Uno** – Main motherboard for processing, control and reception
+- **Arduino Nano** – Handles NRF24L01 transmission
 
 ### 📡 Communication
 - **NRF24L01 Long-Range Modules** – Wireless data transmission  
